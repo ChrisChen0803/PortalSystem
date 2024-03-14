@@ -1,0 +1,1 @@
+Deal with frontend data.Access data from database(Services), return data.
